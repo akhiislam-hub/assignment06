@@ -1,0 +1,9 @@
+* {
+  font-family: "Inter", sans-serif;
+}
+
+.active {
+  background: green;
+  color: white;
+  font-weight: bold;
+}
